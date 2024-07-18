@@ -11,15 +11,15 @@
 
     **3.** Create a _[indian customer performance report](https://github.com/Sumit-Mahat0/AtliQ_Hardware_Sales_and_Finance_Report/blob/main/Indian%20Customer%20Performance%20Report.pdf)_
 
-    **4.** Create a  _[division report level](https://github.com/Sumit-Mahat0/AtliQ_Hardware_Sales_and_Finance_Report/blob/main/Division.pdf)_
+    **4.** Create a  _[division level report](https://github.com/Sumit-Mahat0/AtliQ_Hardware_Sales_and_Finance_Report/blob/main/Division.pdf)_
 
-    **5.** Create a  _[new product 2021](https://github.com/Sumit-Mahat0/AtliQ_Hardware_Sales_and_Finance_Report/blob/main/New%20Products%202021.pdf)_
+    **5.** Create a report on _[new product 2021](https://github.com/Sumit-Mahat0/AtliQ_Hardware_Sales_and_Finance_Report/blob/main/New%20Products%202021.pdf)_
 
     **6.** Create a Report on Net Sales 2021 _[top 5 country](https://github.com/Sumit-Mahat0/AtliQ_Hardware_Sales_and_Finance_Report/blob/main/Top%205%20Country.pdf)_
 
-    **7.** Create a Report on _[Top 10 Product](https://github.com/Sumit-Mahat0/AtliQ_Hardware_Sales_and_Finance_Report/blob/main/Top%2010%20Products.pdf)_
+    **7.** Create a Report on _[Top 10 Product](https://github.com/Sumit-Mahat0/AtliQ_Hardware_Sales_and_Finance_Report/blob/main/Top%2010%20Products.pdf)_ Between 2020 vs 2021 in Net Sales
 
-    **8.** Conduct a comprehensive comparison between _[5 top bottom product](https://github.com/Sumit-Mahat0/AtliQ_Hardware_Sales_and_Finance_Report/blob/main/Top%20Bottom%205%20Qty.pdf)_
+    **8.** Prepare a report on _[5 top bottom product](https://github.com/Sumit-Mahat0/AtliQ_Hardware_Sales_and_Finance_Report/blob/main/Top%20Bottom%205%20Qty.pdf)_ in Total Quantity.
 
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
@@ -37,10 +37,9 @@
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/Sumit-Mahat0/AtliQ_Hardware_Sales_and_Finance_Report/blob/main/P%20%26%20L%20By%20Markets.pdf)_
   
    **3.** Create Profit and Loss (P&L) reports by _[Fiscal Year with Customer](https://github.com/Sumit-Mahat0/AtliQ_Hardware_Sales_and_Finance_Report/blob/main/Customer%20P%20%26%20L%20By%20Fiscal%20Year.pdf)_
-    **4.** Create Profit and Loss (P&L) reports by _[GM% By Quarters(sub_zone)](https://github.com/Sumit-Mahat0/AtliQ_Hardware_Sales_and_Finance_Report/blob/main/GM%25%20by%20Quarters%20(sub_zone).pdf)_
-
-
   
+  **4.** Create Profit and Loss (P&L) reports by _[GM% By Quarters(sub_zone)](https://github.com/Sumit-Mahat0/AtliQ_Hardware_Sales_and_Finance_Report/blob/main/GM%25%20by%20Quarters%20(sub_zone).pdf)_
+
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
