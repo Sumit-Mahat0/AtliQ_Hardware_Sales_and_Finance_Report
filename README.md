@@ -36,7 +36,7 @@
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/Sumit-Mahat0/AtliQ_Hardware_Sales_and_Finance_Report/blob/main/P%20%26%20L%20By%20Markets.pdf)_
   
-   **3.** Create Profit and Loss (P&L) reports by _[Fiscal Year with Customer](https://github.com/Sumit-Mahat0/AtliQ_Hardware_Sales_and_Finance_Report/blob/main/Customer%20P%20%26%20L%20By%20Fiscal%20Year.pdf)_
+   **3.** Create Profit and Loss (P&L) reports by _[Fiscal Year with Market](https://github.com/Sumit-Mahat0/AtliQ_Hardware_Sales_and_Finance_Report/blob/main/Market%20P%20%26%20L%20By%20Fiscal%20Year.pdf)_
   
   **4.** Create Profit and Loss (P&L) reports by _[GM% By Quarters(sub_zone)](https://github.com/Sumit-Mahat0/AtliQ_Hardware_Sales_and_Finance_Report/blob/main/GM%25%20by%20Quarters%20(sub_zone).pdf)_
 
